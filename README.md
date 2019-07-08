@@ -15,13 +15,12 @@ the user may have included in their phone.
 
 
 
-
 Java Swing Components used in this project : 
 
 - JFrame 
 - JPanel 
 - JTextfield.
- - JButton. 
+- JButton. 
 - JTabel. 
 - JLabel. 
 - JDatechooser. 
@@ -35,15 +34,15 @@ Objectives for this Java Application:
 
 - Connect Java to MySQL. 
 - Create a SignUp Form.
- - Create a Login Form. 
+- Create a Login Form. 
 - Insert Data to MySQL Database.
- - Update Data to MySQL. 
+- Update Data to MySQL. 
 - Delete Data from Database.
- - Populate JTable From MySQL Database.
- - Create a JTable Model. 
+- Populate JTable From MySQL Database.
+- Create a JTable Model. 
 - Display Images in a JTable.
- - Populate JCombobox From MySQL Database.
- - Search Data in MySQL Database. 
+- Populate JCombobox From MySQL Database.
+- Search Data in MySQL Database. 
 - Display Selected JTable Row Data in JTextFIelds. 
 - Insert, Update, Delete Image from Database. 
 
@@ -53,9 +52,9 @@ Tools used in this Java Project :
 
 - Java SE 8 . 
 - NetBeans IDE .
- - XAMPP .
- - PhpMyAdmin .
- - MySQL Database .
+- XAMPP .
+- PhpMyAdmin .
+- MySQL Database .
 
 
 
@@ -75,6 +74,11 @@ already exists in the database,
   - if the username is already selected or if an image is not inserted
   - verify that when you click on jLabelCreateAccount the form closes and automatically
     opens the login form.                  
+
+
+
+![1 0-signUpForm](https://user-images.githubusercontent.com/20470279/60803507-6161e180-a149-11e9-9c48-269cd20be534.JPG)
+
 
 
 
@@ -168,7 +172,7 @@ following picture displays the code that clears all the fields in the contact li
 
 
 
-		PICTURE 4.4
+![4 4](https://user-images.githubusercontent.com/20470279/60803913-4643a180-a14a-11e9-9096-12a93d94a231.JPG)
 
 
 
@@ -179,7 +183,7 @@ for Pic if the user wants to update their picture with their contact info.
 
 
 
-		PICTURE 4.5
+![4 5](https://user-images.githubusercontent.com/20470279/60803920-49d72880-a14a-11e9-9dea-dd582e8e2af6.JPG)
 
 
 
@@ -189,7 +193,7 @@ The following picture below displays the output when the contact information is 
 
 
 
-PICTURE 4.55
+![4 55-contact edited](https://user-images.githubusercontent.com/20470279/60803930-4e034600-a14a-11e9-846a-3be09fb33027.JPG)
 
 
 
@@ -199,7 +203,7 @@ for updating the contact info WITHOUT the picture.
 
 
 
-		PICTURE 4.6
+![4 6](https://user-images.githubusercontent.com/20470279/60803936-5196cd00-a14a-11e9-8200-c36120430cb0.JPG)
 
 
 
@@ -210,7 +214,7 @@ deleteContact : is the function from the contactQuery class to remove the select
 
 
 
-		PICTURE 4.7
+![4 7](https://user-images.githubusercontent.com/20470279/60803941-53f92700-a14a-11e9-8194-19eff6f98f41.JPG)
 
 
 
@@ -218,7 +222,7 @@ showData : this function allows navigation between contacts on the form ( show f
 
 
 
-		PICTURE 4.9
+![4 9](https://user-images.githubusercontent.com/20470279/60803944-565b8100-a14a-11e9-81cb-0073a6796626.JPG)
 
 
 
@@ -228,10 +232,21 @@ and can be traversed through via directional tags circled in red.
 
 
 
-		PICTURE 5.0
+![5 0](https://user-images.githubusercontent.com/20470279/60803949-58bddb00-a14a-11e9-9389-a2e277275990.JPG)
+
+
+The following picture below is an example of all the contact information being stored in phpMyAdmin Database after the profiles have been created for contacts in the phone. I created a table called 'mycontacts' in the database.
 
 
 
+![5 1](https://user-images.githubusercontent.com/20470279/60803954-5c516200-a14a-11e9-9cad-a34110ea27f4.JPG)
+
+
+
+The following picture below is an example of all the users who signed up to access thier contact form in order to store additional contacts from friends, family, and colleagues in their cell phones. I created a table called 'users' in the database.
+
+
+![5 2-usersTablephp](https://user-images.githubusercontent.com/20470279/60803962-5eb3bc00-a14a-11e9-9828-e8d31d94af43.JPG)
 
 
 
