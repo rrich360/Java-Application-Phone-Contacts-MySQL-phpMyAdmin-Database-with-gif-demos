@@ -78,13 +78,6 @@ already exists in the database,
 
 
 
-
-PICTURE 1.0
-
-
-
-
-
 2 - Login Form
 
 •	In this form the user can log in to the system by entering the username and password.
@@ -97,7 +90,7 @@ PICTURE 1.0
 
 
 
-PICTURE 2.0
+![2 0-loginForm](https://user-images.githubusercontent.com/20470279/60803513-645cd200-a149-11e9-9ec4-d0f3c97c099d.JPG)
 
 
 
@@ -109,7 +102,8 @@ in the left top part of the form which is circled in red.
 
 
 
-PICTURE 3.0
+![3 0-MainFormForContacts](https://user-images.githubusercontent.com/20470279/60803518-66bf2c00-a149-11e9-8812-b659ff407716.JPG)
+
 
 
 
@@ -119,7 +113,8 @@ you select a row from the jtable the data will be displayed into the fields.
 
 
 
-PICTURE 3.1
+![3 1-Contacts](https://user-images.githubusercontent.com/20470279/60803521-69218600-a149-11e9-86f7-53dbfa8e3c1c.JPG)
+
 
 
 
@@ -138,7 +133,7 @@ following picture below displays the output :
 
 
 
-	PICTURE 4.0
+![4 0](https://user-images.githubusercontent.com/20470279/60803523-6b83e000-a149-11e9-9dcb-4d3c091781cc.JPG)
 
 
 
@@ -148,7 +143,7 @@ for browseImage.
 
 
 
-	PICTURE 4.1
+![4 1](https://user-images.githubusercontent.com/20470279/60803533-6f176700-a149-11e9-9939-1477ce2509a2.JPG)
 
 
 
@@ -157,14 +152,14 @@ displays the code for insertContact.
 
 
 
-	PICTURE 4.2
+![4 2](https://user-images.githubusercontent.com/20470279/60803538-72aaee00-a149-11e9-8ba2-36e5553424aa.JPG)
 
 
 refreshJtable : to clear and populate a jtable again after insert update delete to show the new data . The following picture 
 below displays the code for refreshJtable.
 
 
-	PICTURE 4.3
+![4 3](https://user-images.githubusercontent.com/20470279/60803558-79396580-a149-11e9-97c3-f86c807e1b80.JPG)
 
 
 clearFields : to clear all fields, set the comboBox selected index to 0, set jtabel icon to null,  set imgPath to null. The 
