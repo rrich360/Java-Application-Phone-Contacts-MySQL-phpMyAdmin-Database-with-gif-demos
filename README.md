@@ -5,7 +5,9 @@ Project Summary :
 
  In this Java project, you will see how to make a phone app for managing contact
 information from friends, colleagues, co-workers, and familly. In this app, the user
-can update their picture with their contact information. Also, the user can store more 
+can update their picture with their contact information. 
+
+  Also, the user can store more 
 information than usual due to the additional address field along with name, phone number, 
 email, and group. The address field could automatically calibrate route for user convenience 
 when they are driving. 
