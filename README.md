@@ -8,7 +8,9 @@ information from friends, colleagues, co-workers, and familly. In this app, the 
 can update their picture with their contact information. Also, the user can store more 
 information than usual due to the additional address field along with name, phone number, 
 email, and group. The address field could automatically calibrate route for user convenience 
-when they are driving . The app is mainly comprised from NetBeans Editor and MySQL Database 
+when they are driving. 
+
+ This app is mainly comprised from NetBeans Editor and MySQL Database 
 to securely store the user’s login data and contacts that he or she may have included in their 
 phone. 
 
