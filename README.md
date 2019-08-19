@@ -3,14 +3,14 @@
 
 Project Summary : 
 
-In this Java project, you will see how to make a phone app for managing contact
+ In this Java project, you will see how to make a phone app for managing contact
 information from friends, colleagues, co-workers, and familly. In this app, the user
 can update their picture with their contact information. Also, the user can store more 
 information than usual due to the additional address field along with name, phone number, 
-email, and group. The address field is convenient for users who may choose to be in route 
-to their friend’s house or etc they could upload it to GPS. The app mainly uses Java with 
-NetBeans Editor and MySQL Database to securely store the user’s login data and contacts that 
-the user may have included in their phone. 
+email, and group. The address field could automatically calibrate route for user convenience 
+when they are driving . The app is mainly comprised from NetBeans Editor and MySQL Database 
+to securely store the user’s login data and contacts that he or she may have included in their 
+phone. 
 
 
 
