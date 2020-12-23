@@ -19,20 +19,6 @@ phone.
 
 
 
-Java Swing Components used in this project : 
-
-- JFrame 
-- JPanel 
-- JTextfield.
-- JButton. 
-- JTabel. 
-- JLabel. 
-- JDatechooser. 
-- JCombobox. 
-- JTextarea 
-
-
-
 
 Objectives for this Java Application: 
 
