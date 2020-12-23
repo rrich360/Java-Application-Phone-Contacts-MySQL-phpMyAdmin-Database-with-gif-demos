@@ -122,8 +122,8 @@ navigating forwards; backwards; skip from back to front of the contact list.
 
 
 populateJtable : to display the logged user contacts in jtabel . The code circled in red allows the picture file to be scaled to size 
-automatically when added with the contact information. The red check mark is where the picture is set after the scaling is done. The 
-following picture below displays the output : 
+automatically when added with the contact information. The red check mark displayed is where the picture is set after the scaling is complete. The 
+following picture below displays the code for the function : 
 
 
 
