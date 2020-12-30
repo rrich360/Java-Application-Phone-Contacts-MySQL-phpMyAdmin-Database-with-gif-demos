@@ -1,7 +1,7 @@
 # Java-Phone-App-For-Contacts
 
 
-Project Summary : 
+# Project Summary : 
 
  In this Java project, you will see how to make a phone app for managing contact
 information from friends, colleagues, co-workers, and familly. In this app, the user
@@ -20,7 +20,7 @@ phone.
 
 
 
-Objectives for this Java Application: 
+# Objectives for this Java Application: 
 
 - Connect Java to MySQL. 
 - Create a SignUp Form.
@@ -28,17 +28,15 @@ Objectives for this Java Application:
 - Insert Data to MySQL Database.
 - Update Data to MySQL. 
 - Delete Data from Database.
-- Populate JTable From MySQL Database.
-- Create a JTable Model. 
-- Display Images in a JTable.
-- Populate JCombobox From MySQL Database.
+- Populate table in phpMyAdmin Database.
+- Display images in contacts profile.
 - Search Data in MySQL Database. 
-- Display Selected JTable Row Data in JTextFIelds. 
+- Display selected data in text fields. 
 - Insert, Update, Delete Image from Database. 
 
 
 
-Tools used in this Java Project : 
+# Tools used in this Java Project : 
 
 - Java SE 8 . 
 - NetBeans IDE .
@@ -48,7 +46,7 @@ Tools used in this Java Project :
 
 
 
-HOW IT WORKS :
+# HOW IT WORKS :
 
 
  1 - SignUp Form
