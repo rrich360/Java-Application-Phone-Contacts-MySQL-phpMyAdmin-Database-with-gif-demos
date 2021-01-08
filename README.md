@@ -25,7 +25,7 @@ phone.
 - Connect Java to MySQL. 
 - Create a SignUp Form.
 - Create a Login Form. 
-- Insert Data to MySQL Database.
+- Read data from MySQL Database.
 - Update Data to MySQL. 
 - Delete Data from Database.
 - Populate table in phpMyAdmin Database.
