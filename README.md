@@ -40,9 +40,8 @@ phone.
 
 - Java SE 8 . 
 - NetBeans IDE .
-- XAMPP .
+- Server environment in directory folder (Windows,Apache,MySQL,PHP)
 - PhpMyAdmin .
-- MySQL Database .
 
 
 
