@@ -61,7 +61,7 @@ already exists in the database.
   - if the password field equals the retype password field
   - if the username is already selected or if an image is not inserted
   - verify that when you click on "create a account" link in the login form, it closes and automatically
-    directs to the SignUp form.
+    redirects to the SignUp form.
   - verify that when you click on "already have a account" link in the SignUp form, it redirects the user to the Login form.
 
 
