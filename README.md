@@ -77,7 +77,7 @@ already exists in the database.
 
 •	If you enter the wrong username or password an error message will popup. Otherwise, the contact form should pop up.
 
-•	The user can show and hide the password characters by checking the checkbox (ShowPassword).
+•	The user can show and hide the password characters by checking the checkbox (ShowPass).
 
 •	When you click on 'CreateAccount' link, the form will close and redirect to the SignUp.
 
