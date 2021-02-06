@@ -51,17 +51,18 @@ phone.
 
  1 - SignUp Form
  
-•	In this form a new user can register to the system and we will use an isUsernameExist function… to check if the username 
-already exists in the database, 
+•	In this form a new user can register to the system and I used a error function to check if the username 
+already exists in the database. 
 
-•	a browseImage function from Myfunc class to browse and show image into a jlabel ( in this form jlabel name is jLabelPic ), 
+•	I used a browseImage function to enable the user to add a picture to their profile. 
 
-•	a verifData function to check the following :
+•	Created a verify function to check the following :
   - if the first name + last name + username + password is void
   - if the password field equals the retype password field
   - if the username is already selected or if an image is not inserted
-  - verify that when you click on jLabelCreateAccount the form closes and automatically
-    opens the login form.                  
+  - verify that when you click on "create a account" link in the login form, it closes and automatically
+    directs to the SignUp form.
+  - verify that when you click on "already have a account" link in the SignUp form, it redirects the user to the Login form.
 
 
 
@@ -76,9 +77,9 @@ already exists in the database,
 
 •	If you enter the wrong username or password an error message will popup. Otherwise, the contact form should pop up.
 
-•	The user can show and hide the password characters by checking the checkbox ( jCheckBoxShowPass) 
+•	The user can show and hide the password characters by checking the checkbox (ShowPassword).
 
-•	When you click on jLabelCreateAccount this form will close and SignUp form will open.
+•	When you click on 'CreateAccount' link, the form will close and redirect to the SignUp.
 
 
 
