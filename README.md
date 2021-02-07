@@ -100,8 +100,7 @@ insertContact : function from the contactQuery class to insert a new contact int
 
 
 
-
-
+![Store-user-database](https://user-images.githubusercontent.com/20470279/107140825-d9c6f080-68f2-11eb-817b-f8709200d39b.gif)
 
 
 
