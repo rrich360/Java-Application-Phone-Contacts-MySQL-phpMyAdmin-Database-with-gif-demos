@@ -36,7 +36,7 @@ phone.
 
 
 
-# Tools used in this Java Project : 
+# Tech stack used in this Project : 
 
 - Java SE 8 . 
 - NetBeans IDE .
