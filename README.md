@@ -78,19 +78,17 @@ already exists in the database.
 
 •	The user can show and hide the password characters by checking the checkbox (ShowPass).
 
-•	When you click on 'CreateAccount' link, the form will close and redirect to the SignUp.
+•	When you click on 'CreateAccount' link, the form will close and redirect to the Registration form.
+
+
+![Login-Form](https://user-images.githubusercontent.com/20470279/107137126-4d5b0480-68d7-11eb-8601-72cf590b601a.gif)
 
 
 
-![2 0-loginForm](https://user-images.githubusercontent.com/20470279/60803513-645cd200-a149-11e9-9ec4-d0f3c97c099d.JPG)
+# 3 - Contact Form
 
-
-
-
-3 - Main Form
-
-•	When the user logs in successfully, this form will show up with the logged user profile pic and username displayed 
-in the left top part of the form which is circled in red.
+•	When the user logs in successfully, this form will show up with the logged user's profile pic in the top-right corner of the UI with the username displayed 
+in the left-top corner of the form.
 
 
 
@@ -100,8 +98,8 @@ in the left top part of the form which is circled in red.
 
 
 
-as you can see when the user logs in successfully, a contact list will appear in the jtable at the bottom of the form, when 
-you select a row from the jtable the data will be displayed into the fields.
+As you can see when the user logs in successfully, a contact list will appear in the bottom table of the form, when 
+you select a row from the table, the data will be displayed into the fields.
 
 
 
