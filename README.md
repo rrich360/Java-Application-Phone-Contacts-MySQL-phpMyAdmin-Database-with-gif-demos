@@ -9,10 +9,10 @@ can update their picture with their contact information.
 
 
 # Objectives for this Java Application: 
-
-- Connect Java to MySQL. 
+ 
 - Create a SignUp Form.
 - Create a Login Form. 
+- Connect Java to MySQL.
 - Read data from MySQL Database.
 - Update Data to MySQL. 
 - Delete Data from Database.
@@ -86,7 +86,7 @@ you select a row from the table, the contact information will be appear into the
 
 
 
-# 4.Functionality of contact UI
+# 4 - Functionality of contact UI
 
 you can add, edit, or delete contacts. In the form the user also has the option of navigating between contacts, whether it be 
 navigating forwards; backwards; skip from back to front of the contact list.
@@ -94,6 +94,9 @@ navigating forwards; backwards; skip from back to front of the contact list.
 
 ![Add-delete-user](https://user-images.githubusercontent.com/20470279/107138521-dd527b80-68e2-11eb-9e7e-160e3d48bb92.gif)
 
+
+# 5 Store users and their contacts in database 
+insertContact : function from the contactQuery class to insert a new contact into the database. 
 
 
 
@@ -116,13 +119,6 @@ for browseImage.
 ![4 1](https://user-images.githubusercontent.com/20470279/60803533-6f176700-a149-11e9-9939-1477ce2509a2.JPG)
 
 
-
-insertContact : function from the contactQuery class to insert a new contact into the database . The following picture below
-displays the code for insertContact.
-
-
-
-![4 2](https://user-images.githubusercontent.com/20470279/60803538-72aaee00-a149-11e9-8ba2-36e5553424aa.JPG)
 
 
 refreshJtable : to clear and populate a jtable again after insert update delete to show the new data . The following picture 
