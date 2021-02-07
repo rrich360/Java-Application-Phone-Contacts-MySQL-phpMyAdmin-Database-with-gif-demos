@@ -7,18 +7,6 @@
 information from friends, colleagues, co-workers, and familly. In this app, the user
 can update their picture with their contact information. 
 
-  Also, the user can store more 
-information than usual due to the additional address field along with name, phone number, 
-email, and group. The address field could automatically calibrate route for user convenience 
-when they are driving. 
-
- This app is mainly comprised from NetBeans Editor, MySQL Database, and phpMyAdmin Database 
-to securely store the user’s login data and contacts that he or she may have included in their 
-phone. 
-
-
-
-
 
 # Objectives for this Java Application: 
 
@@ -104,6 +92,7 @@ you can add, edit, or delete contacts. In the form the user also has the option 
 navigating forwards; backwards; skip from back to front of the contact list.
 
 
+![Add-delete-user](https://user-images.githubusercontent.com/20470279/107138521-dd527b80-68e2-11eb-9e7e-160e3d48bb92.gif)
 
 
 
