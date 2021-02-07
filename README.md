@@ -87,8 +87,8 @@ already exists in the database.
 
 # 3 - Contact Form
 
-•	When the user logs in successfully, this form will show up with the logged user's profile pic in the top-right corner of the UI with the username displayed 
-in the left-top corner of the form.
+•	When the user logs in successfully, this form will show up with the logged user's profile pic in the top-left corner of the UI next to the username displayed 
+in the left-top corner as well.
 
 
 
