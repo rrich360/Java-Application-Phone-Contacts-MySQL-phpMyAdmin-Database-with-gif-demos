@@ -65,12 +65,12 @@ already exists in the database.
 
 
 
-![1 0-signUpForm](https://user-images.githubusercontent.com/20470279/60803507-6161e180-a149-11e9-9c48-269cd20be534.JPG)
+![Registration Form](https://user-images.githubusercontent.com/20470279/107133506-efb6c000-68b6-11eb-8486-f39237ebc2cd.gif)
 
 
 
 
-2 - Login Form
+# 2 - Login Form
 
 •	In this form the user can log in to the system by entering the username and password.
 
