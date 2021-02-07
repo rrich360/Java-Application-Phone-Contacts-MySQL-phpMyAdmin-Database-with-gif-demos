@@ -106,8 +106,7 @@ insertContact : function from the contactQuery class to insert a new contact int
 
 
 
-updateContact : The code you see below is part of the function that is displayed in the picture above except the code has the option 
-for updating the contact info WITHOUT the picture.
+updateContact : The code you see below is part of the function that prompts the user to update the contact info WITH profile picture if NO picture is inserted.
 
 
 
