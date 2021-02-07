@@ -95,7 +95,7 @@ navigating forwards; backwards; skip from back to front of the contact list.
 ![Add-delete-user](https://user-images.githubusercontent.com/20470279/107138521-dd527b80-68e2-11eb-9e7e-160e3d48bb92.gif)
 
 
-# 5 - Store users and contacts in seperate tables in the database 
+# 5 - Save users and contacts in seperate tables in the database 
 insertContact : function from the contactQuery class to insert a new contact into the database. In a use-case scenario, where new users have registered and subscribed to the phone app, I created a table called 'users' in the 'javacontactsapp' database. Also, in a scenario where the users want to add contacts from friends, family, and colleagues in their profile, I created a seperate table called 'mycontacts' in the same database. 
 
 
