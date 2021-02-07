@@ -105,12 +105,15 @@ insertContact : function from the contactQuery class to insert a new contact int
 
 
 
-
-updateContact : The code you see below is part of the function that prompts the user to update the contact info WITH profile picture if NO picture is inserted.
+# 6 - Update contact information 
+updateContact : The gif you see below demonstrates an instance when the app prompts the user to update the contact info WITH profile picture if NO picture is inserted.
 
 
 
 ![edit-store-contact](https://user-images.githubusercontent.com/20470279/107141470-e2b9c100-68f6-11eb-8e79-2f5be45d10f9.gif)
+# 
+
+updateContact : The code below represents the function that allows the contact information to be updated without changing the profile picture. 
 
 ![4 6](https://user-images.githubusercontent.com/20470279/60803936-5196cd00-a14a-11e9-8200-c36120430cb0.JPG)
 
