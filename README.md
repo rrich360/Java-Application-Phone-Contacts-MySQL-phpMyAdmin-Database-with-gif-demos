@@ -110,6 +110,7 @@ updateContact : The code you see below is part of the function that prompts the 
 
 
 
+![edit-store-contact](https://user-images.githubusercontent.com/20470279/107141470-e2b9c100-68f6-11eb-8e79-2f5be45d10f9.gif)
 
 ![4 6](https://user-images.githubusercontent.com/20470279/60803936-5196cd00-a14a-11e9-8200-c36120430cb0.JPG)
 
