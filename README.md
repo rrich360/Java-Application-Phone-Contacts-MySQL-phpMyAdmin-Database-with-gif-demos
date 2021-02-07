@@ -104,24 +104,6 @@ insertContact : function from the contactQuery class to insert a new contact int
 
 
 
-updateContact : this function is from the contactQuery class that edits the selected contact information. The following picture 
-displays the code for this function. The red circle includes the Boolean status for true along with the prepared statement query 
-for Pic if the user wants to update their picture with their contact info.
-
-
-
-
-![4 5](https://user-images.githubusercontent.com/20470279/60803920-49d72880-a14a-11e9-9dea-dd582e8e2af6.JPG)
-
-
-
-
-The following picture below displays the output when the contact information is edited and updated : 
-
-
-
-
-![4 55-contact edited](https://user-images.githubusercontent.com/20470279/60803930-4e034600-a14a-11e9-846a-3be09fb33027.JPG)
 
 
 
@@ -147,12 +129,6 @@ deleteContact : is the function from the contactQuery class to remove the select
 
 
 
-
-
-![5 0](https://user-images.githubusercontent.com/20470279/60803949-58bddb00-a14a-11e9-9389-a2e277275990.JPG)
-
-
-The following picture below is an example of all the contact information being stored in phpMyAdmin Database after the profiles have been created for contacts in the phone. I created a table called 'mycontacts' in the database.
 
 
 
