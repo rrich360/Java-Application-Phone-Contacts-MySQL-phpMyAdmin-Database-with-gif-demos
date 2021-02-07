@@ -88,25 +88,17 @@ already exists in the database.
 # 3 - Contact Form
 
 •	When the user logs in successfully, this form will show up with the logged user's profile pic in the top-left corner of the UI next to the username displayed 
-in the left-top corner as well.
-
-
-
-![3 0-MainFormForContacts](https://user-images.githubusercontent.com/20470279/60803518-66bf2c00-a149-11e9-8812-b659ff407716.JPG)
-
+in the left-top corner as well. A contact list will appear in the bottom table of the form, when 
+you select a row from the table, the contact information will be appear into the fields.
 
 
 
 
-As you can see when the user logs in successfully, a contact list will appear in the bottom table of the form, when 
-you select a row from the table, the data will be displayed into the fields.
+![Contact-UI](https://user-images.githubusercontent.com/20470279/107137858-7c28a900-68de-11eb-8f6c-0407c9ac94f4.gif)
 
 
 
-![3 1-Contacts](https://user-images.githubusercontent.com/20470279/60803521-69218600-a149-11e9-86f7-53dbfa8e3c1c.JPG)
-
-
-
+# 4.Functionality of contact UI
 
 you can add, edit, or delete contacts. In the form the user also has the option of navigating between contacts, whether it be 
 navigating forwards; backwards; skip from back to front of the contact list.
@@ -114,7 +106,6 @@ navigating forwards; backwards; skip from back to front of the contact list.
 
 
 
-4.Functions code used in this Form
 
 
 populateJtable : to display the logged user contacts in jtabel . The code circled in red allows the picture file to be scaled to size 
