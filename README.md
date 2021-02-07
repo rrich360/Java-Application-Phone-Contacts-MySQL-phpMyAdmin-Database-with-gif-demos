@@ -48,7 +48,7 @@ phone.
 # HOW IT WORKS :
 
 
- 1 - SignUp Form
+# 1 - Register Form
  
 •	In this form a new user can register to the system and I used a error function to check if the username 
 already exists in the database. 
@@ -60,8 +60,8 @@ already exists in the database.
   - if the password field equals the retype password field
   - if the username is already selected or if an image is not inserted
   - verify that when you click on "create a account" link in the login form, it closes and automatically
-    redirects to the SignUp form.
-  - verify that when you click on "already have a account" link in the SignUp form, it redirects the user to the Login form.
+    redirects to the Register form.
+  - verify that when you click on "already have a account" link in the Register form, it redirects the user to the Login form.
 
 
 
