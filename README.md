@@ -96,45 +96,11 @@ navigating forwards; backwards; skip from back to front of the contact list.
 
 
 # 5 Store users and their contacts in database 
-insertContact : function from the contactQuery class to insert a new contact into the database. 
-
-
-
-populateJtable : to display the logged user contacts in jtabel . The code circled in red allows the picture file to be scaled to size 
-automatically when added with the contact information. The red check mark displayed is where the picture is set after the scaling is complete. The 
-following picture below displays the code for the function : 
-
-
-
-![4 0](https://user-images.githubusercontent.com/20470279/60803523-6b83e000-a149-11e9-9dcb-4d3c091781cc.JPG)
-
-
-
-browseImage : to browse image from the computer to the jlabel . The following picture below is an example of the code used 
-for browseImage.
+insertContact : function from the contactQuery class to insert a new contact into the database. In a use-case scenario, where new users have registered and subscribed to the phone app, I created a table called 'users' in the 'javacontactsapp' database. Also, in a scenario where the users want to add contacts from friends, family, and colleagues in their profile, I created a seperate table called 'mycontacts' in the same database. 
 
 
 
 
-![4 1](https://user-images.githubusercontent.com/20470279/60803533-6f176700-a149-11e9-9939-1477ce2509a2.JPG)
-
-
-
-
-refreshJtable : to clear and populate a jtable again after insert update delete to show the new data . The following picture 
-below displays the code for refreshJtable.
-
-
-![4 3](https://user-images.githubusercontent.com/20470279/60803558-79396580-a149-11e9-97c3-f86c807e1b80.JPG)
-
-
-clearFields : to clear all fields, set the comboBox selected index to 0, set jtabel icon to null,  set imgPath to null. The 
-following picture displays the code that clears all the fields in the contact list.
-
-
-
-
-![4 4](https://user-images.githubusercontent.com/20470279/60803913-4643a180-a14a-11e9-9096-12a93d94a231.JPG)
 
 
 
@@ -180,17 +146,6 @@ deleteContact : is the function from the contactQuery class to remove the select
 
 
 
-showData : this function allows navigation between contacts on the form ( show first, next, pervious, last ).
-
-
-
-![4 9](https://user-images.githubusercontent.com/20470279/60803944-565b8100-a14a-11e9-81cb-0073a6796626.JPG)
-
-
-
-
-The picture below displays the output for the contact form used in the phone app. The following contacts can be seen with pictures 
-and can be traversed through via directional tags circled in red.
 
 
 
@@ -198,17 +153,6 @@ and can be traversed through via directional tags circled in red.
 
 
 The following picture below is an example of all the contact information being stored in phpMyAdmin Database after the profiles have been created for contacts in the phone. I created a table called 'mycontacts' in the database.
-
-
-
-![5 1](https://user-images.githubusercontent.com/20470279/60803954-5c516200-a14a-11e9-9cad-a34110ea27f4.JPG)
-
-
-
-The following picture below is an example of all the users who signed up to access thier contact form in order to store additional contacts from friends, family, and colleagues in their cell phones. I created a table called 'users' in the database.
-
-
-![5 2-usersTablephp](https://user-images.githubusercontent.com/20470279/60803962-5eb3bc00-a14a-11e9-9828-e8d31d94af43.JPG)
 
 
 
