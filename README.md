@@ -86,7 +86,7 @@ you select a row from the table, the contact information will be appear into the
 
 
 
-# 4 - Functionality of contact UI
+# 4 - Functionality of the contact UI
 
 you can add, edit, or delete contacts. In the form the user also has the option of navigating between contacts, whether it be 
 navigating forwards; backwards; skip from back to front of the contact list.
