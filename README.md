@@ -8,29 +8,7 @@ information from friends, colleagues, co-workers, and familly. In this app, the 
 can update their picture with their contact information. 
 
 
-# Objectives for this Java Application: 
- 
-- Create a SignUp Form.
-- Create a Login Form. 
-- Connect Java to MySQL.
-- Read data from MySQL Database.
-- Update Data to MySQL. 
-- Delete Data from Database.
-- Populate table in phpMyAdmin Database.
-- Display images in contacts profile.
-- Search Data in MySQL Database. 
-- Display selected data in text fields. 
-- Insert, Update, Delete Image from Database. 
-
-
-
-# Tech stack used in this Project : 
-
-- Java SE 8 . 
-- NetBeans IDE .
-- Server environment in directory folder (Windows,Apache,MySQL,PHP)
-- PhpMyAdmin .
-
+![Add-delete-user](https://user-images.githubusercontent.com/20470279/107138521-dd527b80-68e2-11eb-9e7e-160e3d48bb92.gif)
 
 
 # HOW IT WORKS :
